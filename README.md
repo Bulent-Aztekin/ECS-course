@@ -1,6 +1,6 @@
 # ECS-course
 HW1:https://github.com/Bulent-Aztekin/ECS-course  
-Hafta1-Ders1:https://colab.research.google.com/drive/1nW9FP8towduA26eNQBfERl_caNSQR1Vz#scrollTo=pZiavM1eorvp  
+Hafta1-Ders1:[Google Colab Linki](https://colab.research.google.com/drive/1nW9FP8towduA26eNQBfERl_caNSQR1Vz#scrollTo=pZiavM1eorvp)
 Hafta1-Ders2
 Hafta2-Ders1
 Hafta2-Ders2
