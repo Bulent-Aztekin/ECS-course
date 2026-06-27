@@ -1,7 +1,7 @@
 # ECS-course
 HW1:[Github repo](https://github.com/Bulent-Aztekin/ECS-course)  
 Hafta1-Ders1:[Python Temelleri Collab](https://colab.research.google.com/drive/1nW9FP8towduA26eNQBfERl_caNSQR1Vz#scrollTo=pZiavM1eorvp)  
-Hafta1-Ders2-Homework:[Liste kayıt uygulaması](https://colab.research.google.com/drive/1YWjkj9flkQdJStmbIav9N_-utSRgWdP0#scrollTo=iMCJDvA_BGIK)  
+Hafta1-Homework:[Liste kayıt uygulaması](https://colab.research.google.com/drive/1YWjkj9flkQdJStmbIav9N_-utSRgWdP0#scrollTo=iMCJDvA_BGIK)  
 Hafta2-Ders1:[Python Temelleri Devam](https://colab.research.google.com/drive/1g9-4UHDsKFphgQnybfqLkfeG7EtCG0kK#scrollTo=-9VjpJleuCch)  
 Hafta2-Ders2  
 Hafta3-Ders1  
