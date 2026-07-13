@@ -5,7 +5,7 @@ Hafta1-Homework:[Liste kayıt uygulaması](https://colab.research.google.com/dri
 Hafta2-Ders1:[Python Temelleri Devam](https://colab.research.google.com/drive/1g9-4UHDsKFphgQnybfqLkfeG7EtCG0kK#scrollTo=-9VjpJleuCch)   
 Hafta2-Ders2:[Pyhton Temelleri Devam](https://colab.research.google.com/drive/1LH9rLqKuUnG1PyVwrYmnVvXI-fjL6061#scrollTo=yr__bX4GiIHM)  
 Hafta3-Ders1:[Numpy](https://colab.research.google.com/drive/1aWdN_OUV7oqlT5psuYYHlktL55puTm0M#scrollTo=mGu6NWFHxdWJ)  
-Hafta3-Ders2  
+Hafta3-Ders2:[Pandas](https://colab.research.google.com/drive/1IqBfs0oUJBPisG1JG98WcC8XU1JyRDqd#scrollTo=bVXhk99z9Nnf)  
 Hafta4-Ders1  
 Hafta4-Ders2  
 Hafta5-Ders1  
