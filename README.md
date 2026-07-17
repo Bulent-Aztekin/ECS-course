@@ -7,7 +7,7 @@ Hafta2-Ders2:[Pyhton Temelleri Devam](https://colab.research.google.com/drive/1L
 Hafta3-Ders1:[Numpy](https://colab.research.google.com/drive/1aWdN_OUV7oqlT5psuYYHlktL55puTm0M#scrollTo=mGu6NWFHxdWJ)  
 Hafta3-Ders2:[Pandas](https://colab.research.google.com/drive/1IqBfs0oUJBPisG1JG98WcC8XU1JyRDqd#scrollTo=bVXhk99z9Nnf)  
 Hafta3 Ödev:[Google AI Studio Mobil Uygulama Ödevi (Gameify Task)](https://ai.studio/apps/b3e4ed06-806c-4c07-a1b0-1b80cb5a3bca)   
-Hafta4-Ders1  
+Hafta3/4-Ders:[Tips veri seti](https://colab.research.google.com/drive/1uIiHLZSvC_G103bMgdnidbA_0JcWZFIz#scrollTo=tA_bDPxxNkkn)    
 Hafta4-Ders2  
 Hafta5-Ders1  
 Hafta5-Ders2  
