@@ -11,7 +11,8 @@ Hafta3/4-Ders:[Tips veri seti](https://colab.research.google.com/drive/1uIiHLZSv
 Gemini Canvas Ödev:[Tips verş seti analiz sayfası]()  
 Hafta5-Ders1:[Titanic](https://www.kaggle.com/code/blentaztekin/titanic-data-analysis/edit)  
 Hafta5-Ders2  
-Hafta6-Ders1  
+Hafta4-telafi[Titanic devam](https://www.kaggle.com/code/blentaztekin/titanic-data-analysis)  
+Hafta6-Ders1[Titanic Sonuç](https://www.kaggle.com/code/blentaztekin/titanic-data-analysis?scriptVersionId=339378398)  
 Hafta6-Ders2  
 Hafta7-Ders1  
 Hafta7-Ders2  
