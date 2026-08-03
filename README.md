@@ -13,8 +13,8 @@ Hafta5-Ders1:[Titanic](https://www.kaggle.com/code/blentaztekin/titanic-data-ana
 Hafta5-Ders2  
 Hafta4-telafi[Titanic devam](https://www.kaggle.com/code/blentaztekin/titanic-data-analysis)  
 Hafta6-Ders1[Titanic Sonuç](https://www.kaggle.com/code/blentaztekin/titanic-data-analysis?scriptVersionId=339378398)  
-Hafta6-Ders2  
-Hafta7-Ders1  
+Hafta6-Ders2[2. El Araç Fiyat Tahmini](https://colab.research.google.com/drive/1mU1DMyYHAs3USx6OrNNTvzzFaeNHGj8o#scrollTo=feFBln2TiRJV)  
+Hafta7-Ders1[2. el araç tahmin model dosyası]()  
 Hafta7-Ders2  
 Hafta8-Ders1  
 Hafta8-Ders2  
