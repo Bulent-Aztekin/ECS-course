@@ -15,7 +15,7 @@ Hafta4-telafi[Titanic devam](https://www.kaggle.com/code/blentaztekin/titanic-da
 Hafta6-Ders1[Titanic Sonuç](https://www.kaggle.com/code/blentaztekin/titanic-data-analysis?scriptVersionId=339378398)  
 Hafta6-Ders2[2. El Araç Fiyat Tahmini](https://colab.research.google.com/drive/1mU1DMyYHAs3USx6OrNNTvzzFaeNHGj8o#scrollTo=feFBln2TiRJV)  
 Hafta7-Ders1[2. el araç tahmin model dosyası](https://github.com/Bulent-Aztekin/ECS-course/blob/main/model/car_pipe.pkl)  
-Hafta7-Ders2  
+Hafta7-Ders2[Gradio ile Basit Form Oluşturma & Google AGY](https://colab.research.google.com/drive/1mY84lM7bQznVVG4hrcpYylqRRcgs9ylG#scrollTo=CP15uqz0wyCy)  
 Hafta8-Ders1  
 Hafta8-Ders2  
 Hafta9-Ders1  
