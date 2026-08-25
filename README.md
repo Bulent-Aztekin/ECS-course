@@ -18,6 +18,7 @@ Hafta7-Ders1[2. el araç tahmin model dosyası](https://github.com/Bulent-Azteki
 Hafta7-Ders2[Gradio ile Basit Form Oluşturma & Google AGY](https://colab.research.google.com/drive/1mY84lM7bQznVVG4hrcpYylqRRcgs9ylG#scrollTo=CP15uqz0wyCy)  
 Hafta7-Ders3[Covid Yarışan Grafikler](https://colab.research.google.com/drive/1dU2pXgrTNjBuY4vhMoF4hH6la1dvlHhk#scrollTo=GMcZ3ju1OCr_)  
 Hafta7-Ödev2[Nüfus Değişim Grafiği(en sonda)](https://colab.research.google.com/drive/1dU2pXgrTNjBuY4vhMoF4hH6la1dvlHhk#scrollTo=GMcZ3ju1OCr_)  
+Hafta7-Ders3[Farklı platformlardan veri çekmek](https://colab.research.google.com/drive/1dUpbdBIg8eNNcuvm6oVuk2PpTcFpJDo2#scrollTo=CKMJWhWDYgfL)  
 Hafta8-Ders1  
 Hafta8-Ders2  
 Hafta9-Ders1  
