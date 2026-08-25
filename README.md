@@ -20,7 +20,7 @@ Hafta7-Ders3[Covid Yarışan Grafikler](https://colab.research.google.com/drive/
 Hafta7-Ödev2[Nüfus Değişim Grafiği(en sonda)](https://colab.research.google.com/drive/1dU2pXgrTNjBuY4vhMoF4hH6la1dvlHhk#scrollTo=GMcZ3ju1OCr_)  
 Hafta7-Ders3[Farklı platformlardan veri çekmek](https://colab.research.google.com/drive/1dUpbdBIg8eNNcuvm6oVuk2PpTcFpJDo2#scrollTo=CKMJWhWDYgfL)  
 Hafta7-Ders3[Bing arama motoruya görsel indirme](https://colab.research.google.com/drive/1yQ_bjjaq5YXeOCK7Fu9Sn7ixkoXNifc3#scrollTo=G1F6FlskZGWM)  
-Hafta8-Ders1  
+Hafta8-Ders1[Ensemble learning- Churn](https://colab.research.google.com/drive/1yijzynrXy5Y0ylRWFP6NtuPAPY8KXhP2#scrollTo=AARuZ8Dt_gRP)[Ödev sonda]
 Hafta8-Ders2  
 Hafta9-Ders1  
 Hafta9-Ders2
