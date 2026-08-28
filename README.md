@@ -2,7 +2,7 @@
 HW1:[Github repo](https://github.com/Bulent-Aztekin/ECS-course)  
 Hafta1-Ders1:[Python Temelleri Collab](https://colab.research.google.com/drive/1nW9FP8towduA26eNQBfERl_caNSQR1Vz#scrollTo=pZiavM1eorvp)  
 Hafta1-Homework:[Liste kayıt uygulaması](https://colab.research.google.com/drive/1YWjkj9flkQdJStmbIav9N_-utSRgWdP0#scrollTo=iMCJDvA_BGIK)  
-Hafta2-Ders1:[Python Temelleri Devam](https://colab.research.google.com/drive/1g9-4UHDsKFphgQnybfqLkfeG7EtCG0kK#scrollTo=-9VjpJleuCch)   
+Hafta2-Ders1:[Python Temelleri Devam](https://colab.research.google.com/drive/1g9-4UHDsKhgQnybfqLkfeG7EtCG0kK#scrollTo=-9VjpJleuCch)   
 Hafta2-Ders2:[Pyhton Temelleri Devam](https://colab.research.google.com/drive/1LH9rLqKuUnG1PyVwrYmnVvXI-fjL6061#scrollTo=yr__bX4GiIHM)  
 Hafta3-Ders1:[Numpy](https://colab.research.google.com/drive/1aWdN_OUV7oqlT5psuYYHlktL55puTm0M#scrollTo=mGu6NWFHxdWJ)  
 Hafta3-Ders2:[Pandas](https://colab.research.google.com/drive/1IqBfs0oUJBPisG1JG98WcC8XU1JyRDqd#scrollTo=bVXhk99z9Nnf)  
@@ -21,6 +21,6 @@ Hafta7-Ödev2[Nüfus Değişim Grafiği(en sonda)](https://colab.research.google
 Hafta7-Ders3[Farklı platformlardan veri çekmek](https://colab.research.google.com/drive/1dUpbdBIg8eNNcuvm6oVuk2PpTcFpJDo2#scrollTo=CKMJWhWDYgfL)  
 Hafta7-Ders3[Bing arama motoruya görsel indirme](https://colab.research.google.com/drive/1yQ_bjjaq5YXeOCK7Fu9Sn7ixkoXNifc3#scrollTo=G1F6FlskZGWM)  
 Hafta8-Ders1[Ensemble learning- Churn](https://colab.research.google.com/drive/1yijzynrXy5Y0ylRWFP6NtuPAPY8KXhP2#scrollTo=AARuZ8Dt_gRP) Ödev sonda  
-Hafta8-Ders2  
-Hafta9-Ders1  
+Hafta8-Ders2[Zaman Serisi Analiz](https://colab.research.google.com/drive/1xo4QkeNA8vuXueQl-uZfJTb4oAqOwTtU#scrollTo=1oEf7-R8HINv)  
+Hafta9-Ders1-2[İçerik bazlı öneri arayüzü](https://colab.research.google.com/drive/1AiOJgCOvw9L-a5PepC7H8AHhW5bhm4HB#scrollTo=HyvtoATGuGpM)  
 Hafta9-Ders2
