@@ -23,4 +23,4 @@ Hafta7-Ders3[Bing arama motoruya görsel indirme](https://colab.research.google.
 Hafta8-Ders1[Ensemble learning- Churn](https://colab.research.google.com/drive/1yijzynrXy5Y0ylRWFP6NtuPAPY8KXhP2#scrollTo=AARuZ8Dt_gRP) Ödev sonda  
 Hafta8-Ders2[Zaman Serisi Analiz](https://colab.research.google.com/drive/1xo4QkeNA8vuXueQl-uZfJTb4oAqOwTtU#scrollTo=1oEf7-R8HINv)  
 Hafta9-Ders1-2[İçerik bazlı öneri arayüzü](https://colab.research.google.com/drive/1AiOJgCOvw9L-a5PepC7H8AHhW5bhm4HB#scrollTo=HyvtoATGuGpM)  
-Hafta9-Ders2
+Hafta9-Ders3[HF Model deploy](https://colab.research.google.com/drive/1yS_dAkSpFN_RXzsMOrdimIKaODjYeBOC#scrollTo=eVIoZ4EksD4F)
